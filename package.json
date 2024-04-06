@@ -1,0 +1,21 @@
+{
+  "name": "javascriptc",
+  "version": "1.0.0",
+  "description": "Random javascript program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "pennimerger",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.5",
+    "progress": "^2.0.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
